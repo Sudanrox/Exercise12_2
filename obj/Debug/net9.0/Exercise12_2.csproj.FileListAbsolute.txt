@@ -1,0 +1,14 @@
+/Users/sudankhatri/Desktop/Exercise12_2/bin/Debug/net9.0/Exercise12_2
+/Users/sudankhatri/Desktop/Exercise12_2/bin/Debug/net9.0/Exercise12_2.deps.json
+/Users/sudankhatri/Desktop/Exercise12_2/bin/Debug/net9.0/Exercise12_2.runtimeconfig.json
+/Users/sudankhatri/Desktop/Exercise12_2/bin/Debug/net9.0/Exercise12_2.dll
+/Users/sudankhatri/Desktop/Exercise12_2/bin/Debug/net9.0/Exercise12_2.pdb
+/Users/sudankhatri/Desktop/Exercise12_2/obj/Debug/net9.0/Exercise12_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudankhatri/Desktop/Exercise12_2/obj/Debug/net9.0/Exercise12_2.AssemblyInfoInputs.cache
+/Users/sudankhatri/Desktop/Exercise12_2/obj/Debug/net9.0/Exercise12_2.AssemblyInfo.cs
+/Users/sudankhatri/Desktop/Exercise12_2/obj/Debug/net9.0/Exercise12_2.csproj.CoreCompileInputs.cache
+/Users/sudankhatri/Desktop/Exercise12_2/obj/Debug/net9.0/Exercise12_2.dll
+/Users/sudankhatri/Desktop/Exercise12_2/obj/Debug/net9.0/refint/Exercise12_2.dll
+/Users/sudankhatri/Desktop/Exercise12_2/obj/Debug/net9.0/Exercise12_2.pdb
+/Users/sudankhatri/Desktop/Exercise12_2/obj/Debug/net9.0/Exercise12_2.genruntimeconfig.cache
+/Users/sudankhatri/Desktop/Exercise12_2/obj/Debug/net9.0/ref/Exercise12_2.dll
